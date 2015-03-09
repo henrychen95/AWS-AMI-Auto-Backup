@@ -23,3 +23,7 @@ About routine
 -------------
 1. If you set routine false, this script will delete all your exist AMIs and Snapshots.<br />
 2. If you set routine true, AMI name will be $amiNamePrefix+$weekday.<br />for example, if you set $amiNamePrefix as "My AMI Backup " and set routine true.<br />then your AMI name will be "My AMI Backup Mon" (without quotation marks).
+
+None Amazon Linux
+-----------------
+If you use none Amazon Linux, please visit: https://github.com/henrychen95/AWS-AMI-Auto-Backup-None-Amazon-Linux
